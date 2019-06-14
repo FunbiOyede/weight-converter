@@ -9,3 +9,23 @@ const Depicts = (Component,className) =>{
 }
 
 export default Depicts;
+
+
+
+// import React, { Component} from 'react';
+
+// const Aux = (WrappedComponent) =>{
+//     //class factory
+//     //anonymous class
+//     return  class extends Component{
+//         render(){
+//             return(
+//                 <div>
+//                     <WrappedComponent />
+//                 </div>
+//             );
+//         }
+//     }
+// }
+
+// export default Aux;
