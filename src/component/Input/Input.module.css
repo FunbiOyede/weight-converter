@@ -1,0 +1,10 @@
+.form{
+    margin: 0 auto;
+    background-color: black;
+}
+
+.container{
+    margin-top: 200px;
+    width: 50%;
+    margin-left: 10%;
+}
